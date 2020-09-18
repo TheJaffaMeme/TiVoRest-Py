@@ -1,0 +1,6 @@
+{
+  "TIVOIP" : "x.x.x.x",
+  "TIVOPORT" : "31339",
+  "HTTPIP" : "0.0.0.0",
+  "HTTPPORT" : "5000"
+}
